@@ -1,0 +1,29 @@
+{
+  "name": "teamproject",
+  "version": "1.0.0",
+  "homepage": "https://github.com/SofiaFasii/team-project",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir dist --public-url ./",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiaFasii/team-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.4",
+    "eslint": "^10.2.1",
+    "parcel": "^2.16.4",
+    "prettier": "^3.8.3"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "live-server": "^1.2.2"
+  }
+}

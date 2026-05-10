@@ -1,6 +1,7 @@
 const list = document.querySelector(".events-list");
 
 export function renderEvents(events) {
+  list.innerHTML = ""
   const markup = events
     .map((event) => {
 

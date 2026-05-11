@@ -11,6 +11,7 @@ const searchBtn = document.getElementById('searchBtn')
 const countryInput = document.getElementById('countryInput')
 const dropdown = document.getElementById('countryDropdown')
 const arrowBtn = document.getElementById('arrowBtn')
+const message = document.getElementById('message')
 
 function renderDropdown(list){
   dropdown.innerHTML = list
@@ -36,12 +37,13 @@ countryInput.addEventListener("input", () => {
   dropdown.classList.add("open")
 })
 dropdown.addEventListener("mousedown", (e) => {
+  e.preventDefault()
   const item = e.target.closest(".dropdown-item");
   if (!item) return;
-  e.preventDefault();
   countryInput.value = item.dataset.name;
   country = item.dataset.code;
   closeDropdown();
+  init()
 });
 searchBtn.addEventListener("click", () => {
   keyword = searchInput.value.trim();
@@ -58,13 +60,13 @@ async function init() {
   const data = await fetchEvents({country, keyword, page});
 
   if(!data._embedded){
-    console.log("Немає події")
+    renderEvents([])
+    message.textContent = 'Нічого не знайдено'
     return
   }
 
+  message.textContent = ""
   const events = data._embedded.events;
-  console.log(events); 
-
   renderEvents(events)
 }
 init();

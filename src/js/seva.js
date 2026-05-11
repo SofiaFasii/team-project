@@ -81,3 +81,4 @@ Pagination.Init(document.getElementById("pagination"), {
   page: 1,
   step: 1
 });
+

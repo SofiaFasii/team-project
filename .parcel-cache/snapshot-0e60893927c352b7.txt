@@ -1,4 +1,4 @@
-7519
+7565
 114C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\input-file-accept.js134225610482426745 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\is-windows\index.js134225610225126356 0
 90C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\toidentifier\HISTORY.md134225610230479056 0
@@ -42,7 +42,7 @@
 102C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\event-stream\test\connect.asynct.js134225610239094198 0
 81C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\http-parser-js134225610232289950 1
 63C:\Users\sofia\OneDrive\Documents\GitHub\team-project\.gitigore134225612255003849 0
-58C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist134229084941971868 1
+58C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist134229883553479516 1
 129C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\_\_class_static_private_field_update\package.json134225610256643712 0
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@msgpackr-extract134225610205331433 1
 83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fastq\index.d.ts134225610246252543 0
@@ -92,7 +92,7 @@
 61C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\img134229078840512575 1
 70C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\ajv134225610281412343 1
 109C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\script-async.js134225610488388733 0
-68C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\index.html134229084941670991 0
+68C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\index.html134229134159646366 0
 83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\prettier\plugins134225610432801304 1
 78C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\union-value134225610229471323 1
 138C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\index.js134225610242172051 0
@@ -141,9 +141,9 @@
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\is-data-descriptor\README.md134225610241438688 0
 88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\event-stream\examples134225610234839171 1
 78C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\path-exists134225610232155222 1
-74C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\styles\style.css134229083032214049 0
+74C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\styles\style.css134229146755893573 0
 97C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lmdb\bin\download-prebuilds.js134225610468563012 0
-156C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.cfa90df8.js.map134225615780661346 0
+156C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.cfa90df8.js.map134229152617414166 0
 99C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\term-size\vendor\macos\.DS_Store134225610227480915 0
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages134225615743898524 1
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\workers\lib\Handle.js134225610249994105 0
@@ -175,7 +175,7 @@
 102C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\shared\message-counts.js134225610469869515 0
 110C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\node_modules\debug\CHANGELOG.md134225610243818327 0
 105C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\watcher-win32-x64\package.json134225610225734877 0
-69C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\js\index.js134229074909076845 0
+69C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\js\index.js134229883551965295 0
 119C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-print-color-adjust.js134225610473541184 0
 94C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\find-cache-dir\package.json134225610227745315 0
 78C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\on-finished134225610232215089 1
@@ -188,7 +188,7 @@
 71C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\img\arrow.svg134225595640000000 0
 114C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_white_acrobat.png134225610256947999 0
 97C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\semver\functions\prerelease.js134225610253955004 0
-70C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\js\render.js134229079017159299 0
+70C:\Users\sofia\OneDrive\Documents\GitHub\team-project\src\js\render.js134229138290491906 0
 83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\pkg-dir\index.js134225610227615654 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\set-value\README.md134225610230623893 0
 100C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\shared\string-utils.js134225610484132384 0
@@ -463,6 +463,7 @@
 102C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\uri-js\dist\esnext\regexps-iri.d.ts134225610258354241 0
 80C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\object-assign134225610229626004 1
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\index.js134225610232733899 0
+146C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\place.f14dd297.svg134229152617384254 0
 73C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\globby134225610236989090 1
 75C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\chokidar134225610239134093 1
 115C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lmdb\node_modules\node-addon-api\tools\README.md134225610249380401 0
@@ -799,6 +800,7 @@
 128C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\node_modules\depd\lib\compat\callsite-tostring.js134225610239817526 0
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_paste.png134225610256095026 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\semver\ranges\max-satisfying.js134225610251271120 0
+84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.348e3c9d.css134229152544081028 0
 112C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_class_private_field_get.mjs134225610476334244 0
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fs-extra\lib\path-exists134225610249280638 1
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js134225610251984532 0
@@ -1023,6 +1025,7 @@
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\esm\_type_of.js134225610474753251 0
 74C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\mime-db134225610239752607 1
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\union-value\package.json134225610222782188 0
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\15134229152618718972 1
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\transformer-postcss\lib134225610242890304 1
 74C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\through134225610235457680 1
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\levn\package.json134225610235672213 0
@@ -1034,7 +1037,7 @@
 111C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\nanomatch\node_modules\is-descriptor\.github134225610243279507 1
 94C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\http-parser-js\package.json134225610225246029 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\uri-js\dist\esnext\index.js.map134225610252787633 0
-147C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\COMMIT_EDITMSG134225615783321759 0
+147C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\COMMIT_EDITMSG134229152620693689 0
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\reusify\test.js134225610238964543 0
 105C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_edit.png134225610251954612 0
 115C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\watcher\node_modules\detect-libc\LICENSE134225610223390583 0
@@ -1088,7 +1091,7 @@
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\shared\severity.js134225610482780922 0
 103C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@humanwhocodes\retry\dist\retrier.js134225610234485111 0
 99C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\node-gyp-build-optional-packages134225610236505264 1
-69C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\index.html134229084941962161 0
+69C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\index.html134229883540751605 0
 77C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\prelude-ls134225610244506661 1
 81C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\normalize-path134225610229626004 1
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\unpipe\package.json134225610222772217 0
@@ -1309,7 +1312,7 @@
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\snapdragon-node134225610230618682 1
 115C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\to-regex\node_modules\is-descriptor\CHANGELOG.md134225610240680604 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\regions\MD.js134225610485489098 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\eb\847143deb8166bb532870839490dfa80ccd7a8134225615781935477 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\eb\847143deb8166bb532870839490dfa80ccd7a8134229152618858599 0
 75C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\uuid\bin134225610224687309 1
 118C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\websocket-driver\lib\websocket\driver\hybi\frame.js134225610245210050 0
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\snapdragon-util134225610230598735 1
@@ -1330,7 +1333,7 @@
 100C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\esm\_wrap_reg_exp.js134225610475222715 0
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\stream-combiner134225610235881663 1
 104C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\parcel\node_modules\commander\esm.mjs134225610246611788 0
-143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\FETCH_HEAD134225615778202893 0
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\FETCH_HEAD134229152611719628 0
 93C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\negotiator\lib\language.js134225610235682183 0
 78C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\strip-outer134225610229481300 1
 105C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\uri-js\dist\esnext\schemes\mailto.d.ts134225610258154773 0
@@ -1365,7 +1368,7 @@
 92C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\toidentifier\package.json134225610227441018 0
 83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\unix-crypt-td-js134225610235662242 1
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\deep-is\package.json134225610239104188 0
-157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.ca35c0fa.css.map134225615780651374 0
+157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.ca35c0fa.css.map134229152617384254 0
 73C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\unpipe134225610232095382 1
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\morgan\node_modules134225610206977043 1
 102C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\rules\no-dupe-else-if.js134225610473386515 0
@@ -1845,7 +1848,7 @@
 90C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\to-regex-range\index.js134225610230733475 0
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@eslint\core\README.md134225610233547086 0
 114C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\minimatch\dist\commonjs\assert-valid-pattern.js134225610223580059 0
-137C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\HEAD134225615780392083 0
+137C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\HEAD134229152615073633 0
 85C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\prettier\index.mjs134225610264028306 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\hasown\tsconfig.json134225610232928542 0
 108C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\rules\array-element-newline.js134225610246751410 0
@@ -1892,6 +1895,7 @@
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\union-value\LICENSE134225610227441018 0
 85C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\arr-diff\README.md134225610225704955 0
 100C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\morgan\node_modules\debug\node.js134225610235397854 0
+153C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.348e3c9d.css134229152617384254 0
 100C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\snapdragon\node_modules\debug\src134225610247674288 1
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\mime-db\LICENSE134225610223021553 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\duplexer\.travis.yml134225610235233189 0
@@ -2108,7 +2112,7 @@
 110C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\to-regex\node_modules\is-descriptor\LICENSE134225610233252766 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@nodelib\fs.scandir134225610247809015 1
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_white_coldfusion.png134225610258434026 0
-152C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\heads\gh-pages134225615783371624 0
+152C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\heads\gh-pages134229152620743556 0
 112C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\to-regex\node_modules\is-descriptor\README.md134225610242396539 0
 93C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\source-map-resolve\LICENSE134225610222812108 0
 108C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_white_h.png134225610261127549 0
@@ -2314,6 +2318,7 @@
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\source-map-js\source-map.d.ts134225610249056128 0
 124C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-container-queries-style.js134225610468283761 0
 94C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\source-map-js\source-map.js134225610245554216 0
+150C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\bg-tablet.dea07a10.png134229152617574319 0
 113C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\micromatch\node_modules\picomatch\package.json134225610243179778 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\source-map-js\lib\base64-vlq.js134225610229491271 0
 88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\on-headers\HISTORY.md134225610230703559 0
@@ -2509,7 +2514,7 @@
 93C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\graph\package.json134225610250582740 0
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\flatted\golang\README.md134225610244965630 0
 105C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_gear.png134225610253650723 0
-143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\heads134225615783381596 1
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\heads134229152620763495 1
 103C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_go.png134225610253845295 0
 105C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\transformer-sass\src\legacy.js134225610229167038 0
 104C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_key.png134225610254269262 0
@@ -2541,6 +2546,7 @@
 113C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_white_office.png134225610262085771 0
 112C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_white_paint.png134225610262175530 0
 93C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lightningcss\node\ast.d.ts134225610248916497 0
+145C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\logo.8bb9af93.svg134229152617374265 0
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\serve-index\public\icons\page_white_paintbrush.png134225610262350150 0
 101C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\flac.js134225610479065530 0
 109C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lmdb\node_modules\node-addon-api\nothing.c134225610222642570 0
@@ -2816,6 +2822,7 @@
 94C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\sass\types\value\mixin.d.ts134225610261577125 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\LICENSE134225610223420479 0
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\sass\types\value\number.d.ts134225610261676865 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\e7\b57c4d9db265bfbd82bbfe1265ab2eb3b1af00134229152620713634 0
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\sass\types\logger\index.d.ts134225610260977234 0
 103C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\nanomatch\node_modules\is-descriptor134225610242965256 1
 105C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\sass\types\logger\source_location.d.ts134225610262489772 0
@@ -2938,7 +2945,7 @@
 80C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\ret\README.md134225610224881913 0
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\ret\lib\sets.js134225610237243491 0
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\ret\lib\util.js134225610241957505 0
-82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\bg-desktop.8770adc2.png134229084735670095 0
+82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\bg-desktop.8770adc2.png134229883541300081 0
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\resolve-url\bower.json134225610232713975 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\resolve-url\LICENSE134225610224961694 0
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\resolve-url\package.json134225610222941763 0
@@ -3034,6 +3041,7 @@
 112C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\readdirp\node_modules\micromatch\lib\cache.js134225610239154037 0
 113C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\micromatch\node_modules\picomatch\lib\parse.js134225610233636832 0
 88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\msgpackr\unpack.d.cts134225610243399189 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\3e\98fd63fc1547315b8045abef88cf744acb72fd134229152618728951 0
 109C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\readdirp\node_modules\kind-of\CHANGELOG.md134225610231411836 0
 105C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\readdirp\node_modules\kind-of\index.js134225610225904421 0
 104C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\readdirp\node_modules\kind-of\LICENSE134225610223330726 0
@@ -3159,7 +3167,7 @@
 120C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\react-refresh\cjs\react-refresh-runtime.production.js134225610239064297 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\rules\no-new-func.js134225610476144743 0
 90C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\range-parser\HISTORY.md134225610224951720 0
-152C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.cfa90df8.js134225615780661346 0
+152C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.cfa90df8.js134229152617394228 0
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\range-parser\README.md134225610232928542 0
 93C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\proxy-middleware\README.md134225610227490888 0
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\_\_identity134225610258902781 1
@@ -3177,7 +3185,7 @@
 111C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\node-gyp-build-optional-packages\optional.js134225610232743879 0
 79C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\prettier\bin134225610229087259 1
 115C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lightningcss\node_modules\detect-libc\lib\elf.js134225610231466815 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\0f\b6d22639dd34e49f22c5e0db3ef4520cecd72b134225615781878095 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\0f\b6d22639dd34e49f22c5e0db3ef4520cecd72b134229152618838658 0
 103C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\watcher\src\PromiseRunner.hh134225610254613493 0
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\prettier\doc.d.ts134225610360771915 0
 99C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lmdb\dependencies\lmdb\libraries134225610235722079 1
@@ -3219,6 +3227,7 @@
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\prettier\plugins\flow.js134225610250906972 0
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\keyv\src\index.js134225610232763826 0
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\deep-is\test\neg-vs-pos-0.js134225610238006729 0
+88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.348e3c9d.css.map134229152544130886 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\esquery\license.txt134225610251221254 0
 108C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\canvas-text.js134225610287463329 0
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\prettier\plugins\glimmer.d.ts134225610361410223 0
@@ -3325,6 +3334,7 @@
 88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\color-convert\LICENSE134225610233517156 0
 90C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\pause-stream\.npmignore134225610224961694 0
 88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\pause-stream\index.js134225610230683609 0
+152C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.6528c13b.js134229152617384254 0
 92C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\pause-stream\package.json134225610222931788 0
 111C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\rules\no-useless-backreference.js134225610478965798 0
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-at-counter-style.js134225610466757286 0
@@ -3361,6 +3371,7 @@
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint-scope\lib\reference.js134225610244426875 0
 88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\path-dirname\index.js134225610224971666 0
 92C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\path-dirname\package.json134225610222941763 0
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\5c134229152620643814 1
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\path-dirname\readme.md134225610230683609 0
 90C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\pascalcase\package.json134225610222941763 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\pascalcase\README.md134225610224971666 0
@@ -3404,7 +3415,7 @@
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fast-deep-equal\es6\index.js134225610226148933 0
 110C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js134225610233262737 0
 119C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\rules\nonblock-statement-body-position.js134225610479698964 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\28\7ec5d9bd632b6a6c3987fa75df3ad0a08b2706134225615781708543 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\28\7ec5d9bd632b6a6c3987fa75df3ad0a08b2706134229152618427796 0
 80C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\p-try\license134225610230703559 0
 103C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\core\test\fixtures\glob-like134225610249390349 1
 85C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\p-try\package.json134225610222971710 0
@@ -3440,7 +3451,7 @@
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\ordered-binary\.idea\ordered-binary.iml134225610229097226 0
 109C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in134225610468453307 0
 111C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\rules\no-restricted-properties.js134225610477032376 0
-84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.4ee4707b.css134229084734969109 0
+84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.4ee4707b.css134229883540830668 0
 110C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\packager-wasm\lib\wasm-sourcemap.js134225610229421465 0
 90C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\optionator\CHANGELOG.md134225610238221250 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fs-extra\lib\ensure134225610253770398 1
@@ -3476,6 +3487,7 @@
 110C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\watcher\src\linux\InotifyBackend.cc134225610246691579 0
 85C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\nullthrows\LICENSE134225610225011562 0
 79C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\deep-is\test134225610237323280 1
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\b4134229152618669116 1
 93C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\nullthrows\nullthrows.d.ts134225610227520804 0
 114C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\deviceorientation.js134225610476992481 0
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\nullthrows\nullthrows.js134225610230763387 0
@@ -3783,6 +3795,7 @@
 75C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\depd\lib134225610234879065 1
 104C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\micromatch\node_modules\picomatch\lib134225610241782862 1
 90C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint-visitor-keys\lib134225610235881663 1
+162C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\remotes\origin\main134229152611660215 0
 105C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\packager-js\lib\DevPackager.js134225610239134093 0
 110C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\micromatch\node_modules\picomatch\README.md134225610244332037 0
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\cache\lib\IDBCache.js134225610238889674 0
@@ -3876,6 +3889,7 @@
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lmdb\node_modules134225610206887294 1
 83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\colors\README.md134225610231017793 0
 102C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\rules\prefer-template.js134225610481112874 0
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\3e134229152618748887 1
 111C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\anymatch\node_modules\normalize-path\LICENSE134225610228588393 0
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lmdb\package.json134225610469809675 0
 108C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\base\node_modules\is-descriptor\.eslintrc134225610225949584 0
@@ -3915,6 +3929,7 @@
 119C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js134225610246751410 0
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fs-extra\lib\fs\index.js134225610245948261 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\lmdb\dist\index.cjs134225610360612339 0
+195C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\pack\pack-c9e46244a7687f856f3a7123b4ca8d4844dcfb16.rev134229152608258520 0
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\etag\package.json134225610223141239 0
 100C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\reporter-cli\src\utils.js134225610247544651 0
 99C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_call_super.mjs134225610476005120 0
@@ -4194,7 +4209,7 @@
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\brace-expansion\package.json134225610240231510 0
 83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\isexe\.npmignore134225610225106403 0
 77C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\isexe\test134225610238390785 1
-142C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\HEAD134225615783371624 0
+142C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\HEAD134229152620753534 0
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\isarray\component.json134225610238380833 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fast-glob\out\utils134225610259930033 1
 115C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-initial-letter.js134225610471475219 0
@@ -4203,7 +4218,7 @@
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\isarray\README.md134225610227615654 0
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\isarray\test.js134225610232763826 0
 81C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\is-wsl\license134225610228069581 0
-76C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\logo.8bb9af93.svg134229084735439982 0
+76C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\logo.8bb9af93.svg134229883540761586 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\is-wsl\package.json134225610223071421 0
 85C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\is-windows\LICENSE134225610227625622 0
 83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\for-in\README.md134225610225620106 0
@@ -4503,6 +4518,7 @@
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\expand-brackets\lib\utils.js134225610240261425 0
 81C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\flat-cache\src134225610238799907 1
 108C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\finalhandler\node_modules\ms\package.json134225610223350680 0
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\9a134229152618808728 1
 90C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\flat-cache\src\cache.js134225610234075959 0
 100C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\decode-uri-component\package.json134225610227855013 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@eslint\config-helpers\dist\esm134225610246297511 1
@@ -4643,6 +4659,7 @@
 92C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fast-glob\out\utils\fs.js134225610247594512 0
 97C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fast-glob\out\utils\index.d.ts134225610258074988 0
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fast-glob\out\utils\index.js134225610249036177 0
+157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.348e3c9d.css.map134229152617384254 0
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fast-glob\out\utils\path.d.ts134225610258593614 0
 107C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@eslint\config-array\dist\esm\types.d.ts134225610249944219 0
 113C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\devicepixelratio.js134225610477062297 0
@@ -4693,7 +4710,7 @@
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\fast-deep-equal\es6\react.js134225610232339823 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\extglob\changelog.md134225610225580213 0
 83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\extglob\index.js134225610227835064 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\4b\5b8adb707e6f36e5e207a331c33968c8b953b3134225615781030359 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\4b\5b8adb707e6f36e5e207a331c33968c8b953b3134229152618000123 0
 78C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\extglob\lib134225610244456798 1
 114C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\error-overlay\src\utils\getPrettyURL.js134225610245963385 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\extglob\package.json134225610223161180 0
@@ -4955,7 +4972,7 @@
 99C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\rules\no-dupe-keys.js134225610473416419 0
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\transformer-image\src134225610240211555 1
 101C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\rules\no-else-return.js134225610473486228 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\10\b91e50e4eed3822384c25f142d3a7f6feef17a134225615781895579 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\10\b91e50e4eed3822384c25f142d3a7f6feef17a134229152618848624 0
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\_\_instanceof\package.json134225610259750517 0
 99C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\eslint\lib\linter\file-report.js134225610264576842 0
 130C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json134225610471395432 0
@@ -5254,6 +5271,7 @@
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\colors\lib\colors.js134225610241847795 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\colors\lib\styles.js134225610249380401 0
 103C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\colors\lib\system\supports-colors.js134225610250163643 0
+149C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\location.0cc612b7.svg134229152617374265 0
 92C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\colors\lib\maps\random.js134225610248642115 0
 92C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\colors\lib\custom\trap.js134225610243339350 0
 116C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js134225610250123745 0
@@ -5424,7 +5442,7 @@
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\regions\SI.js134225610488667983 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\regions\SK.js134225610488687939 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\regions\SM.js134225610488727825 0
-150C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\bg-mobile.344b2481.png134225615780691266 0
+150C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\bg-mobile.344b2481.png134229152617434127 0
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\ajv\lib\dotjs\anyOf.js134225610251854963 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\regions\ST.js134225610488908225 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\regions\SY.js134225610489376978 0
@@ -5497,6 +5515,7 @@
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\clipboard.js134225610453938957 0
 92C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\optimizer-css\lib134225610225774764 1
 104C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\colr-v1.js134225610463323809 0
+151C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\bg-desktop.8770adc2.png134229152617604242 0
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\transformer-js134225610239124132 1
 107C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\_\_interop_require_wildcard134225610259969918 1
 120C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\comparedocumentposition.js134225610463652932 0
@@ -5534,10 +5553,11 @@
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@eslint\object-schema\dist\esm\types.ts134225610246731483 0
 115C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-default-pseudo.js134225610468612886 0
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-deviceadaptation.js134225610468682688 0
-153C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.ca35c0fa.css134225615780651374 0
+153C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.ca35c0fa.css134229152617384254 0
 111C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\utils\test\input\sourcemap\inline.js134225610257237234 0
 111C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-dir-pseudo.js134225610468752506 0
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-display-contents.js134225610468782420 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\cf\4b477b006b012e5c0e61bae47d9af390b61a9b134229152618606099 0
 101C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\cjs\_ts_generator.cjs134225610468642800 0
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-element-function.js134225610468912083 0
 111C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-exclusions.js134225610469281337 0
@@ -5576,6 +5596,7 @@
 108C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-nesting.js134225610472808042 0
 113C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-nth-child-of.js134225610472907782 0
 108C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-opacity.js134225610472967617 0
+147C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\search.41637273.svg134229152617384254 0
 116C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-optional-pseudo.js134225610473117214 0
 116C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-overflow-anchor.js134225610473157118 0
 109C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\css-overflow.js134225610473356581 0
@@ -5631,7 +5652,7 @@
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\ajv\lib\dot\not.jst134225610264776316 0
 103C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\dialog.js134225610477132100 0
 110C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\dispatchevent.js134225610477152051 0
-151C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\bg-desktop.7fe49336.png134225615780701270 0
+151C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\bg-desktop.7fe49336.png134229152617564345 0
 103C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\dnssec.js134225610477331568 0
 109C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\do-not-track.js134225610477351517 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\core\index.d.ts134225610237338330 0
@@ -5722,6 +5743,7 @@
 103C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\jpegxl.js134225610483638608 0
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js134225610483678504 0
 101C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\json.js134225610483738346 0
+83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.627a8639.js134229152544081028 0
 125C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js134225610483768286 0
 120C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js134225610483808157 0
 115C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\keyboardevent-code.js134225610483897933 0
@@ -5744,7 +5766,7 @@
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\ajv\lib\dot\errors.def134225610245269893 0
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\maxlength.js134225610485449204 0
 134C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate-override.js134225610485527008 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\b2\0df539f8b84751948a90854a517f53ac1bfca3134225615781798301 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\b2\0df539f8b84751948a90854a517f53ac1bfca3134229152618679084 0
 125C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js134225610485546982 0
 122C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\mdn-text-decoration-color.js134225610485576899 0
 122C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js134225610485666660 0
@@ -5849,7 +5871,7 @@
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\subresource-bundling.js134225610489017933 0
 90C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\basic-auth\package.json134225610223191101 0
 118C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\subresource-integrity.js134225610489027907 0
-139C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\config134225615782513925 0
+139C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\config134229152619506869 0
 104C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\svg-css.js134225610489097716 0
 102C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\_\_array_without_holes134225610242880329 1
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\svg-html5.js134225610489247320 0
@@ -5890,6 +5912,7 @@
 121C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\wasm-nontrapping-fptoint.js134225610492161917 0
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\wasm-reference-types.js134225610492271633 0
 114C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\wasm-relaxed-simd.js134225610492321494 0
+87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.627a8639.js.map134229152544130886 0
 112C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\wasm-tail-calls.js134225610492431201 0
 109C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\wasm-threads.js134225610492461118 0
 101C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\caniuse-lite\data\features\wasm.js134225610492501006 0
@@ -5980,12 +6003,13 @@
 100C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\bcryptjs\src\bcrypt\prng\accum.js134225610250517823 0
 85C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\diagnostic134225610237458005 1
 100C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\bcryptjs\src\bcrypt\prng\isaac.js134225610250906972 0
+153C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.4ee4707b.css134229152617384254 0
 93C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\bcryptjs\externs\bcrypt.js134225610247574554 0
 94C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\bcryptjs\dist\bcrypt.min.js134225610242605977 0
 95C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\bcryptjs\dist\bcrypt.min.map134225610245339704 0
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\bcryptjs\bin\bcrypt134225610245958233 0
 80C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\batch\LICENSE134225610228104594 0
-81C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\bg-tablet.dea07a10.png134229084735660133 0
+81C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\bg-tablet.dea07a10.png134229883541300081 0
 116C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\cjs\_possible_constructor_return.cjs134225610467964609 0
 81C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\batch\Makefile134225610238440645 0
 108C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\packager-wasm\lib\WasmPackager.js134225610236066238 0
@@ -6157,7 +6181,7 @@
 86C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\arr-flatten\LICENSE134225610228134504 0
 125C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json134225610253905144 0
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\arr-flatten\package.json134225610223211048 0
-157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\remotes\origin134225615757775430 1
+157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\remotes\origin134229152611695195 1
 88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\arr-flatten\README.md134225610225714923 0
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\arr-diff\index.js134225610231057691 0
 116C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\utils\test\input\sourcemap\source-root.js134225610260309014 0
@@ -6295,7 +6319,7 @@
 85C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\acorn\package.json134225610242301700 0
 113C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\_\_class_private_field_loose_base134225610253730501 1
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\acorn\README.md134225610244506661 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\ed\9f7d5972a32055cc7b9d74d8f85714525ed9cf134225615781349501 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\ed\9f7d5972a32055cc7b9d74d8f85714525ed9cf134229152618049999 0
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\acorn\dist\acorn.d.mts134225610247789071 0
 88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\acorn\dist\acorn.d.ts134225610248262924 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\acorn\dist\acorn.mjs134225610246851154 0
@@ -6488,7 +6512,7 @@
 116C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs134225610476025077 0
 118C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_class_apply_descriptor_update.mjs134225610476124802 0
 109C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs134225610476314296 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\dc\ec118b2d85e3b981f0c634a6d5709b96d089d4134225615781848179 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\dc\ec118b2d85e3b981f0c634a6d5709b96d089d4134229152618838658 0
 101C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\utils\test\input\sourcemap134225610265624028 1
 120C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs134225610476324265 0
 119C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs134225610476374131 0
@@ -6501,6 +6525,7 @@
 101C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_create_class.mjs134225610476573600 0
 101C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_create_super.mjs134225610476593545 0
 97C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_decorate.mjs134225610476603512 0
+157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.4ee4707b.css.map134229152617384254 0
 117C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs134225610476623464 0
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\src\_dispose.mjs134225610476643411 0
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\packager-svg\src134225610228842808 1
@@ -6563,6 +6588,7 @@
 134C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5134225610247065717 0
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\esm\_inherits.js134225610473456309 0
 102C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\esm\_inherits_loose.js134225610473466279 0
+169C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\remotes\origin\seva--pagination134229152611695195 0
 115C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\esm\_initializer_define_property.js134225610473476255 0
 98C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\esm\_instanceof.js134225610473506184 0
 111C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@swc\helpers\esm\_interop_require_default.js134225610473521313 0
@@ -7014,6 +7040,7 @@
 112C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js134225610243249588 0
 107C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\reporter-cli\src\bundleReport.js134225610226253764 0
 104C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\reporter-cli\src\logLevels.js134225610245369640 0
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\e7134229152620723604 1
 85C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\graph\test134225610248567237 1
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\reporter-cli\src\phaseReport.js134225610246023150 0
 110C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map134225610249889242 0
@@ -7302,6 +7329,7 @@
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@humanfs\core\src\hfs.js134225610231771092 0
 88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\codeframe\src134225610250083846 1
 89C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\codeframe\test134225610250268497 1
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\15\e35dc1e75bb941c03b25a1680cae220b51da39134229152618699024 0
 101C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\codeframe\src\codeframe.js134225610250113766 0
 135C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@eslint-community\eslint-utils\node_modules\eslint-visitor-keys\dist134225610243454135 1
 105C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@parcel\codeframe\lib\codeframe.js.map134225610255641147 0
@@ -7355,6 +7383,7 @@
 120C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js134225610222492967 0
 121C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md134225610227156707 0
 91C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@mischnic\json-sourcemap134225610229391550 1
+149C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\location.41853a19.svg134229152617374265 0
 96C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@mischnic\json-sourcemap\dist134225610237418113 1
 99C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@mischnic\json-sourcemap\LICENSE134225610223280867 0
 104C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@mischnic\json-sourcemap\package.json134225610228353920 0
@@ -7441,41 +7470,57 @@
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@eslint\config-array\dist\cjs\index.cjs134225610228967589 0
 106C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@eslint\config-array\dist\cjs\types.cts134225610245015494 0
 118C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\@eslint\config-array\dist\cjs\std__path\windows.cjs134225610240770273 0
-127C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git134225615780651374 1
-132C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git134225615783411520 1
+127C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git134229152617374265 1
+132C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git134229152620793416 1
 142C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.gitattributes134225615757964926 0
-146C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\arrow.ff074592.svg134225615780651374 0
-150C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\bg-tablet.41eb8944.png134225615780691266 0
-138C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\index.html134225615780651374 0
-145C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\logo.1574a89e.svg134225615780651374 0
-147C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\search.09c40fdc.svg134225615780651374 0
+146C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\arrow.b9dab6f1.svg134229152617374265 0
+146C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\arrow.ff074592.svg134229152617374265 0
+150C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\bg-mobile.f9624001.png134229152617444100 0
+150C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\bg-tablet.41eb8944.png134229152617454066 0
+138C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\index.html134229152617374265 0
+145C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\logo.1574a89e.svg134229152617384254 0
+147C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\search.09c40fdc.svg134229152617384254 0
+152C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.627a8639.js134229152617384254 0
+156C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.627a8639.js.map134229152617384254 0
+156C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\team-project.6528c13b.js.map134229152617384254 0
 144C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\description134225615743958369 0
 138C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\hooks134225615744038146 1
-138C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\index134225615783291839 0
+138C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\index134229152620653811 0
 137C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\info134225615744048119 1
-140C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects134225615783670826 1
+140C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects134229152621060598 1
+142C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\ORIG_HEAD134229152616551718 0
 145C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\remotes134225615757745503 1
 142C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\tags134225615755002122 1
-152C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\remotes\origin134225615825376334 1
-161C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\remotes\origin\gh-pages134225615825356386 0
+152C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\remotes\origin134229152667197021 1
+161C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\remotes\origin\gh-pages134229152667197021 0
+157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\refs\remotes\origin\main134229152611650235 0
 143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\10134225615781905547 1
 143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\4b134225615781050305 1
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\8d134229152618768861 1
 143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\95134225615781499100 1
+143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\cf134229152618616072 1
 143C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\eb134225615781945443 1
 145C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\info134225615744182962 1
-145C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\pack134225615757905088 1
+145C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\pack134229152611709638 1
 195C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\pack\pack-383b3919e1cfe86c89afb3a79b6a13115f8fbb0f.idx134225615757306967 0
 196C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\pack\pack-383b3919e1cfe86c89afb3a79b6a13115f8fbb0f.pack134225615757296985 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\f1\dfd8052d4462fa4cff55028f29ff0cd48813ea134225615781828225 0
-182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\95\bb099c8f162bc445fd56f59d95963da48e1ca9134225615781489129 0
+195C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\pack\pack-c9e46244a7687f856f3a7123b4ca8d4844dcfb16.idx134229152608236275 0
+196C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\pack\pack-c9e46244a7687f856f3a7123b4ca8d4844dcfb16.pack134229152617990136 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\f1\dfd8052d4462fa4cff55028f29ff0cd48813ea134229152618679084 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\b4\288050386b3b84b85bf25241c1aa59c436dc1b134229152618636025 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\9a\f6bc3c6b25e80d9e0a8a7845568e90babafe23134229152618788784 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\95\bb099c8f162bc445fd56f59d95963da48e1ca9134229152618338040 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\8d\ba213c034cb72ba217b8d6c6456278e8744db9134229152618758887 0
+182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\5c\d951853d80684f22060c05256ea69f32c1237a134229152620603923 0
 182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\5a\614ae0bc3947916d0ac5f1178c019d8b7b4b8a134225615781778389 0
 182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\32\81084d9f1cff5e8bdbc418b9d8fef020349d62134225615783281869 0
 182C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\objects\26\f5563c93612b40ee1b6218b7bf7f88b3c22296134225615783331738 0
 142C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs134225615757845252 1
-148C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\heads134225615757855217 1
+148C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\heads134225615783381596 1
 150C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\remotes134225615757775430 1
-166C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\remotes\origin\gh-pages134225615825366363 0
-157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\heads\gh-pages134225615783381596 0
+166C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\remotes\origin\gh-pages134229152667197021 0
+174C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\remotes\origin\seva--pagination134229152611695195 0
+157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\logs\refs\heads\gh-pages134229152620753534 0
 145C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\info\exclude134225615744048119 0
 156C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\hooks\commit-msg.sample134225615743978313 0
 157C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.cache\gh-pages\https!github.com!SofiaFasii!team-project.git\.git\hooks\post-update.sample134225615743988291 0
@@ -7506,15 +7551,16 @@
 80C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.bin\sass.ps1134225610497314300 0
 82C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.bin\semver.ps1134225610497314300 0
 80C:\Users\sofia\OneDrive\Documents\GitHub\team-project\node_modules\.bin\uuid.ps1134225610497324278 0
-77C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\arrow.b9dab6f1.svg134229084735439982 0
+77C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\arrow.b9dab6f1.svg134229883541175228 0
 77C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\arrow.ff074592.svg134225611851894013 0
-81C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\bg-mobile.f9624001.png134229084735400099 0
-80C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\location.41853a19.svg134229084734939194 0
+81C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\bg-mobile.f9624001.png134229883541145293 0
+80C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\location.0cc612b7.svg134229152543091110 0
+80C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\location.41853a19.svg134229883540751605 0
 77C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\place.f14dd297.svg134229077126182564 0
-78C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\search.41637273.svg134229084734929230 0
-88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.4ee4707b.css.map134229084735510443 0
-83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.6528c13b.js134229084735650155 0
-87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.6528c13b.js.map134229084735878591 0
+78C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\search.41637273.svg134229883540751605 0
+88C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.4ee4707b.css.map134229883541300081 0
+83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.6528c13b.js134229883553479516 0
+87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.6528c13b.js.map134229883553479516 0
 84C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.ca35c0fa.css134225611851933905 0
 83C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.cfa90df8.js134225611851943895 0
 87C:\Users\sofia\OneDrive\Documents\GitHub\team-project\dist\team-project.cfa90df8.js.map134225611852003711 0

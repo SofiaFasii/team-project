@@ -1,60 +1,41 @@
 <!doctype html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>EVENT BOOSTER</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
-    rel="stylesheet">
-  <link rel="stylesheet" href="./styles/style.css" />
-</head>
-
-<body>
-  <header class="header">
-    <div class="header__container container">
-      <a href="#" class="header__logo">
-        <img src="./img/logo.svg" alt="Event Booster">
-      </a>
-      <div class="header__content">
-        <h1 class="header__title">FIND BEST EVENTS <br> AROUND THE WORLD</h1>
-        <div class="header__search">
-          <div class="header__keyword">
-            <input type="text" class="header__input" id="searchInput" placeholder="Start searching">
-            <button class="header__btn" id="searchBtn">
-              <img src="./img/search.svg" alt="search">
-            </button>
-          </div>
-          <div class="header__country">
-            <input type="text" class="header__input header__input-country" id="countryInput"
-              placeholder="Choose country">
-            <button class="header__btn" id="arrowBtn">
-              <img src="./img/arrow.svg" alt="choose country">
-            </button>
-            <ul class="country-dropdown" id="countryDropdown"></ul>
-          </div>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EVENT BOOSTER</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="header__container container">
+        <a href="#" class="header__logo">
+            <img src="./img/logo.svg" alt="Event Booster">
+        </a>
+        <div class="header__content">
+            <h1 class="header__title">FIND BEST EVENTS <br> AROUND THE WORLD</h1>
+            <div class="header__search">
+                <div class="header__keyword">
+                    <input type="text" class="header__input" id="searchInput" placeholder="Start searching">
+                    <button class="header__btn" id="searchBtn">
+                      <img src="./img/search.svg" alt="search">
+                    </button>
+                </div>
+                <div class="header__country">
+                    <input type="text" class="header__input header__input-country" id="countryInput"  placeholder="Choose country">
+                    <button class="header__btn" id="arrowBtn">
+                      <img src="./img/arrow.svg" alt="choose country">
+                    </button>
+                    <ul class="country-dropdown" id="countryDropdown"></ul>
+                </div>
+            </div>
         </div>
       </div>
-    </div>
-  </header>
+    </header>
 
-  <main class="main">
-    <div class="main__container container">
-      <ul class="events-list"></ul>
-    </div>
-  </main>
-
-  <div id="pagination" ></div>
-
-  <footer class="footer">
-    <div class="footer__container container"></div>
-  </footer>
-
-  <script type="module" src="./js/index.js"></script>
-  <script src="./js/seva.js"></script>
-</body>
     <main class="main">
       <div class="main__container container">
         <p id="message"></p>
@@ -74,4 +55,6 @@
       </div>
     </footer>
 
+    <script type="module" src="./js/index.js"></script>
+  </body>
 </html>

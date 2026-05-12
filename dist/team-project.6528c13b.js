@@ -717,6 +717,7 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 var _api = require("./api");
 var _render = require("./render");
 var _countries = require("./countries");
+var _modal = require("./modal");
 let country = "";
 let keyword = "";
 let page = 0;
@@ -726,6 +727,7 @@ const countryInput = document.getElementById('countryInput');
 const dropdown = document.getElementById('countryDropdown');
 const arrowBtn = document.getElementById('arrowBtn');
 const message = document.getElementById('message');
+const list = document.querySelector(".events-list");
 function renderDropdown(list) {
     dropdown.innerHTML = list.map(([name, code])=>`<li class="dropdown-item" data-code="${code}" data-name="${name}">${name}</li>`).join("");
 }
@@ -779,16 +781,28 @@ async function init() {
     (0, _render.renderEvents)(events);
 }
 init();
+list.addEventListener("click", async (e)=>{
+    const card = e.target.closest(".event");
+    if (!card) return;
+    const data = await (0, _api.fetchById)(card.dataset.id);
+    (0, _modal.renderModal)(data);
+});
 
-},{"./api":"4yEOZ","./render":"dvMGd","./countries":"9ZVou"}],"4yEOZ":[function(require,module,exports,__globalThis) {
+},{"./api":"4yEOZ","./render":"dvMGd","./countries":"9ZVou","./modal":"jJ31c"}],"4yEOZ":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "fetchEvents", ()=>fetchEvents);
-const BASE_URL = "https://app.ticketmaster.com/discovery/v2/events.json";
+parcelHelpers.export(exports, "fetchById", ()=>fetchById);
+const BASE_URL = "https://app.ticketmaster.com/discovery/v2/events";
 const API_KEY = "tG7aQ3GCK35UI1b0FVQGBmQ2kSZJ2t4e";
 async function fetchEvents({ country, keyword, page }) {
-    const URL = `${BASE_URL}?apikey=${API_KEY}&keyword=${keyword}&countryCode=${country}&page=${page}`;
+    const URL = `${BASE_URL}.json?apikey=${API_KEY}&keyword=${keyword}&countryCode=${country}&page=${page}`;
     const res = await fetch(URL);
+    const data = await res.json();
+    return data;
+}
+async function fetchById(id) {
+    const res = await fetch(`${BASE_URL}/${id}.json?apikey=${API_KEY}`);
     const data = await res.json();
     return data;
 }
@@ -1860,6 +1874,38 @@ const countries = [
     ]
 ];
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["6DHTQ","6kb64"], "6kb64", "parcelRequirec002", {})
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"jJ31c":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "renderModal", ()=>renderModal);
+var _api = require("./api");
+const overlay = document.querySelector(".modal-container");
+function renderModal(event) {
+    overlay.innerHTML = `
+    <div class="modal">
+      <button id="closeBtn">\xd7</button>
+      <h2 class="h2-info">Info</h2>
+      <p class="p-info">${event.info}</p>
+      <h2 class="h2-when">When</h2>
+      <p class="p-data">${event.dates.start.localDate}</p>
+      <p class="p-time">${event.dates.start.localTime}</p>
+      <h2 class="h2-where">Where</h2>
+      <p class="p-where">${event.locale}</p>
+      <h2 class="h2-who">Who</h2>
+      <p class="p-who">${event.name}</p>
+    </div>
+  `;
+    overlay.classList.add("open");
+    overlay.querySelector("#closeBtn").addEventListener("click", closeModal);
+    overlay.addEventListener("click", (e)=>{
+        if (e.target === overlay) closeModal();
+    });
+}
+function closeModal() {
+    overlay.classList.remove("open");
+    overlay.innerHTML = "";
+}
+
+},{"./api":"4yEOZ","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["6DHTQ","6kb64"], "6kb64", "parcelRequirec002", {})
 
 //# sourceMappingURL=team-project.6528c13b.js.map

@@ -1,6 +1,8 @@
-import { fetchEvents } from "./api";
+import { fetchEvents,fetchById } from "./api";
 import { renderEvents } from "./render";
 import { countries } from "./countries";
+import { renderModal } from "./modal"
+
 
 let country = ""
 let keyword = ""
@@ -12,6 +14,7 @@ const countryInput = document.getElementById('countryInput')
 const dropdown = document.getElementById('countryDropdown')
 const arrowBtn = document.getElementById('arrowBtn')
 const message = document.getElementById('message')
+const list = document.querySelector(".events-list");
 
 function renderDropdown(list){
   dropdown.innerHTML = list
@@ -70,3 +73,12 @@ async function init() {
   renderEvents(events)
 }
 init();
+
+list.addEventListener("click", async (e) => {
+  const card = e.target.closest(".event");
+  if (!card) return;
+  const data = await fetchById(card.dataset.id);
+  renderModal(data);
+});
+  
+

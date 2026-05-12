@@ -6,8 +6,8 @@ export async function fetchEvents({ country, keyword, page }) {
 
   const res = await fetch(URL);
   const data = await res.json();
-  totalPages = data.page.totalPages
-  currentPages = data.page.number
+  // totalPages = data.page.totalPages
+  // currentPages = data.page.number
   //викликати рендер подіїб, потім видалити return
   //викликати пагінацію
   return data;

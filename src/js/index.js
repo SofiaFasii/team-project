@@ -1,7 +1,7 @@
-import { fetchEvents,fetchById } from "./api";
+import { fetchEvents, fetchById } from "./api";
 import { renderEvents } from "./render";
 import { countries } from "./countries";
-import { renderModal } from "./modal"
+import { renderModal } from "./modal";
 
 
 let country = ""

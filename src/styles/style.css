@@ -264,13 +264,14 @@ body {
 }
 /* -- pagination -- */
 .pagination {
+  margin-top: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 10px;
-  margin-top: 20px;
 }
 .page-btn {
+  margin-top: 20px;
   width: 35px;
   height: 35px;
   border: 1px solid #ccc;
@@ -292,7 +293,7 @@ body {
   text-align: center;
   font-size: 16px;
   color: #939393;
-  padding-top: 80px;
+  padding-top: 40px;
   padding-bottom: 19px;
 }
 

@@ -324,6 +324,33 @@ body {
   height: 40px;
 }
 
+.pagination {
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+  display: flex;
+}
+
+.page-btn {
+  color: #fff;
+  cursor: pointer;
+  background: none;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  width: 35px;
+  height: 35px;
+}
+
+.page-btn.active {
+  color: #dc56c5;
+  border: 2px solid #dc56c5;
+}
+
+.dots {
+  color: #fff;
+}
+
 .footer__text {
   text-align: center;
   color: #939393;

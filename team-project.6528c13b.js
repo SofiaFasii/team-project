@@ -718,9 +718,11 @@ var _api = require("./api");
 var _render = require("./render");
 var _countries = require("./countries");
 var _modal = require("./modal");
+var _paginationJs = require("./pagination.js");
 let country = "";
 let keyword = "";
 let page = 0;
+let totalPages = 0;
 const searchInput = document.getElementById('searchInput');
 const searchBtn = document.getElementById('searchBtn');
 const countryInput = document.getElementById('countryInput');
@@ -766,19 +768,24 @@ document.addEventListener("click", (e)=>{
     if (e.target !== countryInput && e.target !== arrowBtn) closeDropdown();
 });
 async function init() {
-    const data = await (0, _api.fetchEvents)({
+    const { events, pageInfo } = await (0, _api.fetchEvents)({
         country,
         keyword,
         page
     });
-    if (!data._embedded) {
+    if (!events || events.length === 0) {
         (0, _render.renderEvents)([]);
         message.textContent = "\u041D\u0456\u0447\u043E\u0433\u043E \u043D\u0435 \u0437\u043D\u0430\u0439\u0434\u0435\u043D\u043E";
         return;
     }
     message.textContent = "";
-    const events = data._embedded.events;
     (0, _render.renderEvents)(events);
+    totalPages = pageInfo.totalPages;
+    (0, _paginationJs.renderPagination)(page, totalPages, changePage);
+}
+function changePage(newPage) {
+    page = newPage;
+    init();
 }
 init();
 list.addEventListener("click", async (e)=>{
@@ -788,7 +795,7 @@ list.addEventListener("click", async (e)=>{
     (0, _modal.renderModal)(data);
 });
 
-},{"./api":"4yEOZ","./render":"dvMGd","./countries":"9ZVou","./modal":"jJ31c"}],"4yEOZ":[function(require,module,exports,__globalThis) {
+},{"./api":"4yEOZ","./render":"dvMGd","./countries":"9ZVou","./modal":"jJ31c","./pagination.js":"80yTG"}],"4yEOZ":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "fetchEvents", ()=>fetchEvents);
@@ -799,11 +806,10 @@ async function fetchEvents({ country, keyword, page }) {
     const URL = `${BASE_URL}.json?apikey=${API_KEY}&keyword=${keyword}&countryCode=${country}&page=${page}`;
     const res = await fetch(URL);
     const data = await res.json();
-    // totalPages = data.page.totalPages
-    // currentPages = data.page.number
-    //викликати рендер подіїб, потім видалити return
-    //викликати пагінацію
-    return data;
+    return {
+        events: data._embedded?.events || [],
+        pageInfo: data.page
+    };
 }
 async function fetchById(id) {
     const res = await fetch(`${BASE_URL}/${id}.json?apikey=${API_KEY}`);
@@ -1917,6 +1923,60 @@ function closeModal() {
     overlay.innerHTML = "";
 }
 
-},{"./api":"4yEOZ","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["6DHTQ","6kb64"], "6kb64", "parcelRequirec002", {})
+},{"./api":"4yEOZ","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"80yTG":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "renderPagination", ()=>renderPagination);
+const paginationContainer = document.querySelector(".pagination");
+function renderPagination(currentPage, totalPages, onChangePage) {
+    const pageNumbers = getVisiblePageNumbers(currentPage, totalPages);
+    renderPageButtons(pageNumbers, currentPage);
+    setupClickHandler(onChangePage);
+}
+function getVisiblePageNumbers(currentPage, totalPages) {
+    const visible = 5;
+    let start = currentPage - 2;
+    let end = currentPage + 2;
+    start = Math.max(start, 0);
+    end = Math.min(end, totalPages - 1);
+    if (currentPage < 3) end = Math.min(visible - 1, totalPages - 1);
+    if (currentPage > totalPages - visible) {
+        start = Math.max(0, totalPages - visible);
+        end = totalPages - 1;
+    }
+    const pageNumbers = [];
+    if (start > 0) {
+        pageNumbers.push(1);
+        if (start > 1) pageNumbers.push("...");
+    }
+    for(let i = start; i <= end; i++)pageNumbers.push(i + 1);
+    if (end < totalPages - 1) {
+        if (end < totalPages - 2) pageNumbers.push("...");
+        pageNumbers.push(totalPages);
+    }
+    return pageNumbers;
+}
+function renderPageButtons(pageNumbers, currentPage) {
+    paginationContainer.innerHTML = pageNumbers.map((pageNumber)=>{
+        if (pageNumber === "...") return `<span class="dots">...</span>`;
+        const isActive = pageNumber - 1 === currentPage;
+        return `
+        <button class="page-btn ${isActive ? "active" : ""}"
+                data-page="${pageNumber - 1}">
+          ${pageNumber}
+        </button>
+      `;
+    }).join("");
+}
+function setupClickHandler(onChangePage) {
+    paginationContainer.onclick = (event)=>{
+        const clickedButton = event.target.closest(".page-btn");
+        if (!clickedButton) return;
+        const newPage = +clickedButton.dataset.page;
+        onChangePage(newPage);
+    };
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["6DHTQ","6kb64"], "6kb64", "parcelRequirec002", {})
 
 //# sourceMappingURL=team-project.6528c13b.js.map

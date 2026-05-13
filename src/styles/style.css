@@ -262,6 +262,30 @@ body {
   height: 40px;
   cursor: pointer;
 }
+/* -- pagination -- */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+.page-btn {
+  width: 35px;
+  height: 35px;
+  border: 1px solid #ccc;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.page-btn.active {
+  border: 2px solid #dc56c5;
+  color: #dc56c5;
+}
+.dots {
+  color: white;
+}
 
 /* -- footer -- */
 .footer__text {

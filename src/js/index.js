@@ -2,11 +2,13 @@ import { fetchEvents, fetchById } from "./api";
 import { renderEvents } from "./render";
 import { countries } from "./countries";
 import { renderModal } from "./modal";
+import { renderPagination } from "./pagination.js";
 
 
 let country = ""
 let keyword = ""
 let page = 0
+let totalPages = 0
 
 const searchInput = document.getElementById('searchInput')
 const searchBtn = document.getElementById('searchBtn')
@@ -22,57 +24,68 @@ function renderDropdown(list){
       `<li class="dropdown-item" data-code="${code}" data-name="${name}">${name}</li>`
     ).join("")
 }
+
 function openDropdown(){
   renderDropdown(countries)
   dropdown.classList.add('open')
 }
+
 function closeDropdown(){
   dropdown.classList.remove("open")
 }
+
 arrowBtn.addEventListener('click', (e) => {
   e.stopPropagation()
   dropdown.classList.contains('open') ? closeDropdown() : openDropdown()
 })
+
 countryInput.addEventListener("input", () => {
   const query = countryInput.value.toLowerCase()
   const filtered = countries.filter(([name]) => name.toLowerCase().includes(query))
   renderDropdown(filtered)
   dropdown.classList.add("open")
 })
+
 dropdown.addEventListener("mousedown", (e) => {
   e.preventDefault()
-  const item = e.target.closest(".dropdown-item");
+  const item = e.target.closest(".dropdown-item")
   if (!item) return;
-  countryInput.value = item.dataset.name;
-  country = item.dataset.code;
-  closeDropdown();
+  countryInput.value = item.dataset.name
+  country = item.dataset.code
+  closeDropdown()
   init()
-});
+})
+
 searchBtn.addEventListener("click", () => {
-  keyword = searchInput.value.trim();
-  page = 0;
-  init();
-});
+  keyword = searchInput.value.trim()
+  page = 0
+  init()
+})
+
 document.addEventListener("click", (e) => {
   if (e.target !== countryInput && e.target !== arrowBtn) {
-    closeDropdown();
+    closeDropdown()
   }
 });
 
 async function init() {
-  const data = await fetchEvents({country, keyword, page});
-
-  if(!data._embedded){
+  const { events, pageInfo } = await fetchEvents({ country, keyword, page })
+  if (!events || events.length === 0) {
     renderEvents([])
-    message.textContent = 'Нічого не знайдено'
+    message.textContent = "Нічого не знайдено"
     return
   }
-
   message.textContent = ""
-  const events = data._embedded.events;
   renderEvents(events)
+
+  totalPages = pageInfo.totalPages
+  renderPagination(page, totalPages, changePage)
 }
-init();
+function changePage(newPage) {
+  page = newPage
+  init()
+}
+init()
 
 list.addEventListener("click", async (e) => {
   const card = e.target.closest(".event");
@@ -81,4 +94,3 @@ list.addEventListener("click", async (e) => {
   renderModal(data);
 });
   
-
